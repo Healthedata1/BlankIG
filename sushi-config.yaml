@@ -96,10 +96,9 @@ parameters:
   #  value: #path #A relative path that contains liquid templates for generating narrative
   path-liquid: input/images/liquid
   excludexml: true
-  escludejsn: false
+  excludejsn: false
   excludettl: true
   excludemap: true
-  excludeexample: true
   # custom parameter also possible too
   #foo: bar
   # no-narrative:
